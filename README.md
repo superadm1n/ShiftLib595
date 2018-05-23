@@ -1,4 +1,4 @@
-# ShiftLib959
+# ShiftLib595
 
 This project is designed to be a library to interface with a 74HC595
 shift register. It handles the low level clocking, loading, and discharging
@@ -24,8 +24,8 @@ pip install RPi.GPIO
 Follow these commands to install this project into your environment
 
 ```
-git clone https://github.com/superadm1n/ShiftLib959
-cd ShiftLib959
+git clone https://github.com/superadm1n/ShiftLib595
+cd ShiftLib595
 python setup.py install
 ```
 
